@@ -105,5 +105,6 @@ git push origin --delete v1.7
 ```
 
 ### 5. Add an image in the README.md file
-Below is an example of an image added to this README file:
+Example of an image added to this README file:
 ![Cat](image_1.jfif)
+
